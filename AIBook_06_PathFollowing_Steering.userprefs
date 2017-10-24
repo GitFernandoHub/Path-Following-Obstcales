@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PathFollowing\VehicleFollowing.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PathFollowing\VehicleAvoidance.cs" Line="1" Column="2" />
+      <File FileName="Assets\Scripts\PathFollowing\VehicleFollowing.cs" Line="65" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
